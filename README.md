@@ -24,7 +24,7 @@
 #### 四、
 ![image](https://github.com/JackKoLing/python_study_notes/blob/master/project2_data_visualization/res_images/4.png)
 
-## 项目3、web应用
+## 项目3、web应用, [访问的网址为：](https://learning-log-jackko.herokuapp.com/)
 ### 效果图为：
 #### 一、
 ![image](https://github.com/JackKoLing/python_study_notes/blob/master/project3_learning_log/res_images/1.png)
