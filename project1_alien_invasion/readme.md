@@ -4,3 +4,9 @@
 向下移动。玩家的任务是射杀这些外星人。玩家将所有的外星人都消灭干净后，将出现一群新的外星
 人，他们移动的速度更快。只要有外星人撞到了玩家的飞船或到达了屏幕底部，玩家就损失一艘飞船。
 玩家损失三艘飞船后，游戏结束。
+
+效果图：
+
+![image](https://github.com/JackKoLing/python_study_notes/blob/master/project1_alien_invasion/res_images/1.png)
+
+![image](https://github.com/JackKoLing/python_study_notes/blob/master/project1_alien_invasion/res_images/2.png)
