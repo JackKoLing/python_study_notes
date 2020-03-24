@@ -14,8 +14,7 @@ class Ship(Sprite):
 
         # 加载飞船图像并获取其外接矩阵
         self.image = pygame.image.load(
-            'D:\learnCode\pythonBook\project1_alien_invasion\images\ship.bmp'
-        )
+            'project1_alien_invasion\\images\\ship.bmp')
         self.rect = self.image.get_rect() # 获取图像外接矩阵更易处理
         self.screen_rect = screen.get_rect()
 
